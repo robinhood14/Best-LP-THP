@@ -215,7 +215,11 @@ aside {
     color: #FFF;
 }
 
-#mail{
+.input{
+    color:#000;
+}
+
+#mail {
 
     margin-left: 5px;
     background-color: #f05f40;
@@ -229,7 +233,7 @@ aside {
     width: 150px;
 
 }
-#mail:hover{
+.clear:hover{
     text-decoration: none;
     color: white;
     background-color: #bdbdbd;
