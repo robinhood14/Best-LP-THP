@@ -22,6 +22,14 @@ gem 'jbuilder'
 
 gem 'frontend-generators'
 
+gem 'gmail'
+
+gem 'google_drive'
+
+gem 'watir'
+
+gem 'twitter'
+
 #gem 'devise'
 
 #gem 'bcrypt', '3.1.11'
